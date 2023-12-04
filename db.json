@@ -1,0 +1,132 @@
+{
+  "categories": [
+    "Restaurant",
+    "Transport",
+    "Groceries",
+    "Shopping"
+  ],
+  "currencies": [
+    "CHF",
+    "EUR",
+    "USD"
+  ],
+  "expenses": [
+    {
+      "id": "ikl-WGL",
+      "amount": 50,
+      "description": "Disel",
+      "category": "Transport",
+      "currency": "CHF",
+      "recipient": "coop pronto",
+      "date": "2023-12-08T21:40:00.000Z"
+    },
+    {
+      "id": "xBuZz1R",
+      "amount": 12,
+      "description": "milk",
+      "category": "Groceries",
+      "currency": "CHF",
+      "recipient": "coop",
+      "date": "2023-12-08T21:43:00.000Z"
+    },
+    {
+      "amount": 20,
+      "description": "Transport",
+      "category": "Transport",
+      "currency": "CHF",
+      "recipient": "coop pronto",
+      "date": "2023-12-08T22:10:00.000Z",
+      "id": "0LaF45Q"
+    },
+    {
+      "amount": 29.9,
+      "description": "T-shirt",
+      "category": "Shopping",
+      "currency": "CHF",
+      "recipient": "manor",
+      "date": "2023-12-08T22:12:00.000Z",
+      "id": "CRos7uH"
+    },
+    {
+      "id": "6IFUphr",
+      "amount": 5,
+      "description": "coffee",
+      "category": "",
+      "currency": "CHF",
+      "recipient": "not sure where",
+      "date": "2023-12-08T22:29:00.000Z"
+    },
+    {
+      "amount": 9.9,
+      "description": "Salad",
+      "category": "Groceries",
+      "currency": "CHF",
+      "recipient": "Coop",
+      "date": "2023-12-09T09:11:00.000Z",
+      "id": "kWYUcBN"
+    },
+    {
+      "amount": 20,
+      "description": "lunch",
+      "category": "Restaurant",
+      "currency": "CHF",
+      "recipient": "",
+      "date": "2023-12-09T09:43:00.000Z",
+      "id": "czSNwYe"
+    },
+    {
+      "id": "0w9G-wV",
+      "amount": 20,
+      "description": "fuel",
+      "category": "Transport",
+      "currency": "CHF",
+      "recipient": "migrolino",
+      "date": "2023-12-09T09:44:00.000Z"
+    },
+    {
+      "id": "cK6629D",
+      "amount": 15,
+      "description": "lunch",
+      "category": "Restaurant",
+      "currency": "CHF",
+      "recipient": "Restaurant xpto",
+      "date": "2023-12-09T09:45:00.000Z"
+    },
+    {
+      "id": "lPgA_5h",
+      "amount": 10,
+      "description": "snack",
+      "category": "Restaurant",
+      "currency": "CHF",
+      "recipient": "cake shop",
+      "date": "2023-12-09T09:55:00.000Z"
+    },
+    {
+      "id": "lGfa7Yc",
+      "amount": 250,
+      "description": "very long description",
+      "category": "Groceries",
+      "currency": "CHF",
+      "recipient": "supermarket",
+      "date": "2023-12-09T10:26:00.000Z"
+    },
+    {
+      "id": "jDdtvXj",
+      "amount": 62.2,
+      "description": "very very long description",
+      "category": "Shopping",
+      "currency": "CHF",
+      "recipient": "with a very long recipient",
+      "date": "2023-12-09T10:26:00.000Z"
+    },
+    {
+      "id": "N7UTlqf",
+      "amount": 18,
+      "description": "fuel",
+      "category": "Transport",
+      "currency": "EUR",
+      "recipient": "abroad somewhere",
+      "date": "2023-12-09T14:33:00.000Z"
+    }
+  ]
+}
